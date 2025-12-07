@@ -1,2 +1,2 @@
 # cybersecurity-journey
-Building my  cybersecurity knowledge base - notes, tools, commands, vulnerabilities, and practice
+My cybersecurity learning journey — notes, labs, tools, and progress from beginner to ethical hacker (2026).
